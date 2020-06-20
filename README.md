@@ -1,7 +1,7 @@
 # Movie Iris
 
 ## Introduction  
-The `Movie Iris` project was something that I started working on during quarantine. I saw some cool visualizations on **Reddit's** `r/dataisbeautiful` and was inspired to start working on the project. Some other users had already done something like this - and I wanted to try my hand at is as well. Given that their repos were all private - I figured I would do the project and make it public. This repo is my take on turning movies into still art. Effectively taking raw movie frames, compressing them to their core colors, and visualizing the color schemes of a movie. I wanted to see how movies evolve, as well as how directors intended for different colors to be prevalent across different scenes. I wanted to make something artistic and visual, and I figured this would be a great opportunity to learn how to do some image processing, while making something that I'll actually get to enjoy as well as share with friends and family!
+The `Movie Iris` project was something that I started working on during quarantine. I saw some cool visualizations on **Reddit's** `r/dataisbeautiful` and was inspired to start working on the project. Some other users had already done something like this - and I wanted to try my hand at is as well. This repo is my take on turning movies into still art. Effectively taking raw movie frames, compressing them to their core colors, and visualizing the color schemes of a movie. I wanted to see how movies evolve, as well as how directors intended for different colors to be prevalent across different scenes. I wanted to make something artistic and visual, and I figured this would be a great opportunity to learn how to do some image processing, while making something that I'll actually get to enjoy as well as share with friends and family!
 
 *P.S. Feel free to message me if you want me to do this to a video of yours!*
 
@@ -42,7 +42,7 @@ This project was written in Python, and uses 2 main libraries:
 1. This file also takes 4 inputs:
 
     1. The name of the video
-    2. current working directory
+    2. Current working directory
     3. The final images working directory
     4. The name of the final barcode we created in the previous file.
 
