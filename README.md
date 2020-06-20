@@ -18,10 +18,12 @@ This project was written in Python, and uses 2 main libraries:
 #### `video_to_barcode.ipynb`
 
 1. This file takes 4 inputs:
-        1. Height of the final barcode
-        2. The name of the video
-        3. The vidcap (filepath of the video)
-        4. The frame count that we want to capture
+
+    1. Height of the final barcode
+    2. The name of the video
+    3. The vidcap (filepath of the video)
+    4. The frame count that we want to capture
+
 
 2. The script creates a local folder to store all of the files that are going to be created
 
@@ -38,23 +40,25 @@ This project was written in Python, and uses 2 main libraries:
 #### `linear_to_circular.ipynb`
 
 1. This file also takes 4 inputs:
-        1. The name of the video
-        2. current working directory
-        3. The final images working directory
-        4. The name of the final barcode we created in the previous file.
 
-    However, we don't need to pass these in, as they are imported from the previous file, and we can just continue with those variables.
+    1. The name of the video
+    2. current working directory
+    3. The final images working directory
+    4. The name of the final barcode we created in the previous file.
+
+
+However, we don't need to pass these in, as they are imported from the previous file, and we can just continue with those variables.
 
 2. The first thing we do is read in the barcode image that was made in `video_to_barcode.ipynb`
 
 3. We then create a white stripe along the bottom of the image. This is so that when we transform the image to polar coordinates, the bottom of the image becomes the center, and we can get a nice white circle in the middle, to create that **iris** visualization.
 
 4. The next thing we do is convert the barcode image to polar coordinates. There are multiple input arguments for the `warpPolar` function:
-        1. src
-        2. dsize
-        3. center
-        4. maxRadius
-        5. flags        
+    1. src
+    2. dsize
+    3. center
+    4. maxRadius
+    5. flags        
 
     `src:` is effectively the source image we want to convert to polar coordinates - this should stay the same.     
     `dsize:` is how large we want the output image to be -- these measurements we're a lot of trial and error on my part - you can tweak these as you see fit.    
