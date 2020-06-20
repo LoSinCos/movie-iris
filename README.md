@@ -83,7 +83,7 @@ Below are some examples of the movies that I worked on. Try and guess which movi
 `Movie: Matrix (1999)`
 
 
-![Hero iris](https://github.com/LoSinCos/movie-iris/blob/master/Movies/hero_barcode.png)
+![Hero iris](https://github.com/LoSinCos/movie-iris/blob/master/Movies/hero_iris.png)
 ![Hero barcode](https://github.com/LoSinCos/movie-iris/blob/master/Movies/hero_barcode.png)
 
 
