@@ -1,5 +1,12 @@
 # Movie Iris
 
+![Matrix barcode](https://github.com/LoSinCos/movie-iris/blob/master/Movies/matrix_barcode.png)
+![Matrix iris](https://github.com/LoSinCos/movie-iris/blob/master/Movies/matrix_iris.png)
+
+
+`Matrix (1999)`
+
+
 ## Introduction  
 The `Movie Iris` project was something that I started working on during quarantine. I saw some cool visualizations on **Reddit's** `r/dataisbeautiful` and was inspired to start working on the project. Some other users had already done something like this - and I wanted to try my hand at is as well. This repo is my take on turning movies into still art. Effectively taking raw movie frames, compressing them to their core colors, and visualizing the color schemes of a movie. I wanted to see how movies evolve, as well as how directors intended for different colors to be prevalent across different scenes. I wanted to make something artistic and visual, and I figured this would be a great opportunity to learn how to do some image processing, while making something that I'll actually get to enjoy as well as share with friends and family!
 
@@ -71,7 +78,7 @@ However, we don't need to pass these in, as they are imported from the previous 
 
 
 ## Examples
-Below are some examples of the movies that I worked on. Try and guess which movies they are!
+Below are some more examples of the movies that I worked on. Try and guess which movies they are!
 
 ![Up Barcode](https://github.com/LoSinCos/movie-iris/blob/master/Movies/up_barcode.png)
 ![Up Iris](https://github.com/LoSinCos/movie-iris/blob/master/Movies/up_iris.png)
@@ -80,20 +87,11 @@ Below are some examples of the movies that I worked on. Try and guess which movi
 `Movie: Up (2009)`
 
 
-![Matrix barcode](https://github.com/LoSinCos/movie-iris/blob/master/Movies/matrix_barcode.png)
-![Matrix iris](https://github.com/LoSinCos/movie-iris/blob/master/Movies/matrix_iris.png)
-
-
-`Movie: Matrix (1999)`
-
-
 ![Hero barcode](https://github.com/LoSinCos/movie-iris/blob/master/Movies/hero_barcode.png)
 ![Hero iris](https://github.com/LoSinCos/movie-iris/blob/master/Movies/hero_iris.png)
 
 
 `Movie: Hero (2002)`
-
-
 
 
 **Did you guess any of the movies correctly?**
