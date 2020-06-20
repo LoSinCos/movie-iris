@@ -69,22 +69,22 @@ This project was written in Python, and uses 2 main libraries:
 ## Examples
 Below are some examples of the movies that I worked on. Try and guess which movies they are!
 
-![Up Barcode](https://github.com/LoSinCos/movie_iris/blob/master/Movies/up_barcode.png)
-![Up Iris](https://github.com/LoSinCos/movie_iris/blob/master/Movies/up_iris.png)
+![Up Barcode](https://github.com/LoSinCos/movie-iris/blob/master/Movies/up_barcode.png)
+![Up Iris](https://github.com/LoSinCos/movie-iris/blob/master/Movies/up_iris.png)
 
 
 `Movie: Up (2009)`
 
 
-![Matrix iris](https://github.com/LoSinCos/movie_iris/blob/master/Movies/matrix_barcode.png)
-![Matrix barcode](https://github.com/LoSinCos/movie_iris/blob/master/Movies/matrix_iris.png)
+![Matrix iris](https://github.com/LoSinCos/movie-iris/blob/master/Movies/matrix_barcode.png)
+![Matrix barcode](https://github.com/LoSinCos/movie-iris/blob/master/Movies/matrix_iris.png)
 
 
 `Movie: Matrix (1999)`
 
 
-![Hero iris](https://github.com/LoSinCos/movie_iris/blob/master/Movies/hero_barcode.png)
-![Hero barcode](https://github.com/LoSinCos/movie_iris/blob/master/Movies/hero_iris.png)
+![Hero iris](https://github.com/LoSinCos/movie-iris/blob/master/Movies/hero_barcode.png)
+![Hero barcode](https://github.com/LoSinCos/movie-iris/blob/master/Movies/hero_barcode.png)
 
 
 `Movie: Hero (2002)`
